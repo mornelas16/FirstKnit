@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Marina Ornelas"
 output: 
   html_document:
     number_sections: true
@@ -17,7 +17,7 @@ Here are just a few questions so I can get to know you and so you can get practi
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
-  
+I attended West Covina High School. Yes I graduated in 2019. I personally prefer math over English. This is because I struggle with essays where math was an easier subject for me. The subject that I did best in was sciences. Biology was my strong suit in high school.  
 
      
 
